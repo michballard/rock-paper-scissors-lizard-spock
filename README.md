@@ -1,8 +1,14 @@
-rock-paper-scissors-lizard-spock
+Rock Paper Scissors Lizard Spock
 ================================
 
-Game recreated using Javascript and adding additional choices
+This game was recreated using Javascript, and adds additional choices.
 
-Created while at Makers Academy (week 7)
+Technologies used
+-----------------
+- Ruby
+- Javascript
+- Sinatra
 
+How to view this app:
+---------------------
 http://shrouded-peak-9940.herokuapp.com/
