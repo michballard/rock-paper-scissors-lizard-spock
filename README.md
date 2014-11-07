@@ -1,6 +1,8 @@
 | [Makers Academy](http://www.makersacademy.com) | Week 7 | 
 | ------ | ------ | 
 
+[![Code Climate](https://codeclimate.com/github/michballard/rock-paper-scissors-lizard-spock/badges/gpa.svg)](https://codeclimate.com/github/michballard/rock-paper-scissors-lizard-spock)
+
 Rock Paper Scissors Lizard Spock
 ================================
 
