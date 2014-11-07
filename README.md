@@ -30,7 +30,7 @@ Clone this repository:
 $ git@github.com:michballard/rock-paper-scissors-lizard-spock.git
 ```
 
-To run the run the app, type in the command line:
+To run this app type in the command line:
 ```shell
 $ rackup
 ```
