@@ -22,7 +22,7 @@ Technologies used
 
 How to view this app:
 ---------------------
-http://shrouded-peak-9940.herokuapp.com/
+[View on Heroku](https://rockscissorsspock.herokuapp.com/
 
 
 How to use this app:
