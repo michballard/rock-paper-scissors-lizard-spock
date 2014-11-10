@@ -22,7 +22,7 @@ Technologies used
 
 How to view this app:
 ---------------------
-[View on Heroku](https://rockscissorsspock.herokuapp.com/
+[View on Heroku](https://rockscissorsspock.herokuapp.com/)
 
 
 How to use this app:
